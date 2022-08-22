@@ -33,7 +33,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pd28CSE&show_icons=true&hide_border=true&count_private=true&"/> 
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=pd28CSE&show_icons=true&hide_border=true&count_private=true&"/> 
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd28CSE&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=pd28CSE&theme=react-dark)
