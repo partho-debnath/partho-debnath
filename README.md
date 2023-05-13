@@ -22,7 +22,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 #### Bio
 
-- ⚙️ I use daily: `Python`, `C++`
+- ⚙️ I use daily: `Dart`, `Python`, `C++`
 - 💬 Ping me about **Django**, **Python**, **RestAPIs**,
 - 📫 Reach me: <a href="https://www.linkedin.com/in/partho-debnath-b8632a201"> Linkedin </a> 
 
