@@ -40,10 +40,17 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 <!-- current streak -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pd28CSE&&theme=tokyonight" alt="pd28CSE"/>
 
-![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pd28CSE&theme=react-dark)
-</p>
+<!-- ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pd28CSE&theme=react-dark) -->
+  
+[![Partho Debnath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pd28CSE&theme=react-dark)](https://github.com/pd28CSE/github-readme-activity-graph)
 
 [![Check out pd28CSE's profile on stardev.io](https://stardev.io/developers/pd28CSE/badge/languages/global.svg)](https://stardev.io/developers/pd28CSE)
+    
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pd28CSE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</p>
+
+
 
 <!-- <b>&#128200; Competitive Programming</b>
     code forces status -->
