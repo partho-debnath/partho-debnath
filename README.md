@@ -1,81 +1,113 @@
 ## Hi 👋, I'm Partho Debnath
-Studying Computer Science and Engineering At Bangladesh University of Business and Technology(BUBT)
+Studying Computer Science and Engineering At Bangladesh University of Business and Technology (BUBT)
+
 <p align="left">
-  <!-- <a href="https://leetcode.com/username/">
-    <img src="https://cp-logo.vercel.app/leetcode/username" alt="Leet code rating" />
+  <a href="https://www.leetcode.com/parthodebnathbd" target="blank" style="margin: 5px;"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=leetcode&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fparthodebnathbd&logo=leetcode&logoColor=yellow" alt="partho debnath leetcode"/></a>
+  <a href="https://codeforces.com/profile/Partho_Debnath">
+    <img width=11% src="https://codeforces.org/s/76991/images/codeforces-sponsored-by-ton.png" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/username">
-    <img src="https://raw.githubusercontent.com/username/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a> -->
   <a href="https://github.com/pd28CSE?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/pd28CSE?color=green&logo=github">
   </a>
   <a href="https://github.com/pd28CSE/">
-    <img src="https://komarev.com/ghpvc/?username=pd28CSE" alt="visitors" />
+    <img src="https://komarev.com/ghpvc/?username=pd28CSE" alt="visitors"/>
   </a>
 </p>
 
-#### Now Learning
-
-- `Flutter`,
 
 
-#### Bio
+## Now Learning
+
+- `Flutter`
+
+
+
+## Bio
 
 - ⚙️ I use daily: `Dart`, `Python`, `C++`
-- 💬 Ping me about **Flutter** **Django**, **Python**, **RestAPIs**,
-- 📫 Reach me: <a href="https://www.linkedin.com/in/partho-debnath-b8632a201"> Linkedin </a> 
+- 💬 Ping me about **Flutter**, **Django**, **Python**, **RestAPIs**,
+- 📫 Reach me: <a href="https://www.linkedin.com/in/partho-debnath-bd/"> Linkedin </a> 
 
-#### Language and Tools
-<a href="https://dart.dev/"> <img height="45"  src="img/dart.svg" alt="Dart"> </a><a href="https://flutter.dev/"> <img height="45"  src="img/flutter.svg" alt="Flutter"> </a><img height="48" src="img/python-original.svg" alt="python"> <img height="50" src="img/django.svg" alt="Django"> <img height="45"  src="img/c.svg" alt="C"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48"  src="img/java.svg" alt="Java"><img height="48"  src="img/cSharp.svg" alt="C#"><img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql"> <img height="48" src="img/postman.svg" alt="Postman">
 
-#### Development Stuffs:
 
-<b>⚡ GitHub Stats</b>
+## Language and Tools
+
 <p float="left">
-<!-- most used language -->
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd28CSE&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-<!-- GitHub status bar -->
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=pd28CSE&show_icons=true&hide_border=true&count_private=true&"/> 
-<!-- current streak -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pd28CSE&&theme=tokyonight" alt="pd28CSE"/>
-
-<!-- ![Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pd28CSE&theme=react-dark) -->
-  
-[![Partho Debnath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pd28CSE&theme=react-dark)](https://github.com/pd28CSE/github-readme-activity-graph)
-
-[![Check out pd28CSE's profile on stardev.io](https://stardev.io/developers/pd28CSE/badge/languages/global.svg)](https://stardev.io/developers/pd28CSE)
-    
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pd28CSE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <a href="https://dart.dev/"> <img height="45"  src="img/dart.svg" alt="Dart"> </a>
+  <a href="https://flutter.dev/"> <img height="45"  src="img/flutter.svg" alt="Flutter"> </a><img height="48" src="img/python-original.svg" alt="python"> <img height="50" src="img/django.svg" alt="Django"> <img height="45"  src="img/c.svg" alt="C"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48"  src="img/java.svg" alt="Java"><img height="48"  src="img/cSharp.svg" alt="C#"><img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql"> <img height="48" src="img/postman.svg" alt="Postman">
 </p>
 
 
+## &#128200; Competitive Programming
+<div style="display: flex; justify-content: center; align-items: center;">
 
-<!-- <b>&#128200; Competitive Programming</b>
-    code forces status -->
+ <a href="https://www.leetcode.com/parthodebnathbd" target="blank">
+<img   src="https://leetcard.jacoblin.cool/parthodebnathbd?theme=dark&font=Karma&ext=contest">
+</a>
+
+</div>
 
 
-#### Recent Activity
-- [File SharingBD ▶️](https://filesharingbd.pythonanywhere.com/) 
+
+## Development Stuffs:
+<b>⚡ GitHub Stats</b>
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap";>
+  <!-- most used language -->
+  <img  height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pd28CSE&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="Partho Debnath's most used language"/>
+  <!-- GitHub status bar -->
+  <img  height="190em" src="https://github-readme-stats.vercel.app/api?username=pd28CSE&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&" alt="Partho Debnath's GitHub status bar"/> 
+  <!-- current streak -->
+  <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=pd28CSE&&theme=tokyonight" alt="Partho Debnath's GitHub current streak"/>
+
+    
+  ![Partho Debnath's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pd28CSE&theme=react-dark)
+
+  <br>
+
+  [![Check out pd28CSE's profile on stardev.io](https://stardev.io/developers/pd28CSE/badge/languages/global.svg)](https://stardev.io/developers/pd28CSE)
+
+</div>
+
+
+## 🏆 GitHub Trophies
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap">
+
+  
+![](https://github-profile-trophy.vercel.app/?username=pd28CSE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+
+## Live Project
+- [▶️ File SharingBD](https://filesharingbd.pythonanywhere.com/) 
+
+
+## Recent Activity
+
 - [Online Gadget Store](https://github.com/Binary-Soft/Online-Gadget-Store-.git)
-- [Django Channels/Websocket](https://github.com/pd28CSE/djangoChannelsWebsocket2)
 - [Flutter Online Book Order](https://github.com/pd28CSE/flutter-online-book-shop)
+- [Flutter Task Manager](https://github.com/pd28CSE/TaskManager_Ostad.git)
+- [Flutter-Django Chat Application](https://github.com/pd28CSE/flutter_django_realtime_chatapp_with_jwt_auth.git)
 
-#### Working On
+## Working On
+
 - [Flutter & Django (Task Manager) with Token Authentication](https://github.com/pd28CSE/flutter-django-crud-authentication)
 - [Flutter Shop-App](https://github.com/pd28CSE/flutter-shop-app)
-- [Flutter Coffee Shop UI Design](https://github.com/pd28CSE/flutter_coffee_shop_ui)
 
 
 
-#### Connect With Me
+## Connect With Me
 
 <p left="center">
-<a href="https://www.linkedin.com/in/partho-debnath-b8632a201">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
-</a> 
-<a href="mailto:parthodebnath28@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  <a href="https://www.linkedin.com/in/partho-debnath-bd/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+  </a> 
+  <a href="mailto:parthodebnath28@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+  </a>
+  <a href="https://medium.com/@username">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
 </p>
+
