@@ -100,7 +100,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 ## Connect With Me
 
 <p left="center">
-  <a href="https://www.linkedin.com/in/partho-debnath-bd/">
+  <a href="https://www.linkedin.com/in/debnath-partho/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a> 
   <a href="mailto:parthodebnath28@gmail.com">
