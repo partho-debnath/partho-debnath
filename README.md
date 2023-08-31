@@ -70,14 +70,6 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 </div>
 
 
-## 🏆 GitHub Trophies
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap">
-
-  
-![](https://github-profile-trophy.vercel.app/?username=pd28CSE&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
 
 ## Live Project
 - [▶️ File SharingBD](https://filesharingbd.pythonanywhere.com/) 
