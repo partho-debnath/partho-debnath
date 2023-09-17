@@ -77,7 +77,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 ## Recent Activity
 
-- [Online Gadget Store](https://github.com/Binary-Soft/Online-Gadget-Store-.git)
+- [Online Gadget Store (Django)](https://github.com/Binary-Soft/Online-Gadget-Store-.git)
 - [Flutter Online Book Order](https://github.com/pd28CSE/flutter-online-book-shop)
 - [Flutter Task Manager](https://github.com/pd28CSE/TaskManager_Ostad.git)
 - [Flutter-Django Chat Application](https://github.com/pd28CSE/flutter_django_realtime_chatapp_with_jwt_auth.git)
