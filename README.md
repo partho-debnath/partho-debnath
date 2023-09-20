@@ -81,12 +81,13 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 - [Flutter Online Book Order](https://github.com/pd28CSE/flutter-online-book-shop)
 - [Flutter Task Manager](https://github.com/pd28CSE/TaskManager_Ostad.git)
 - [Flutter-Django Chat Application](https://github.com/pd28CSE/flutter_django_realtime_chatapp_with_jwt_auth.git)
-- [Ecommerce App (Flutter)](https://github.com/pd28CSE/ecommerce-flutter)
+- [Flutter & Django (Task Manager) with Token Authentication](https://github.com/pd28CSE/flutter-django-crud-authentication)
+- [Flutter Shop-App](https://github.com/pd28CSE/flutter-shop-app)
+
 
 ## Working On
 
-- [Flutter & Django (Task Manager) with Token Authentication](https://github.com/pd28CSE/flutter-django-crud-authentication)
-- [Flutter Shop-App](https://github.com/pd28CSE/flutter-shop-app)
+- [Crafty Bay E-Commerce App (Flutter)](https://github.com/pd28CSE/ecommerce-flutter)
 
 
 
