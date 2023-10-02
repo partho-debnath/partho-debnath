@@ -67,6 +67,8 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
   [![Check out pd28CSE's profile on stardev.io](https://stardev.io/developers/pd28CSE/badge/languages/global.svg)](https://stardev.io/developers/pd28CSE)
 
+  [![An image of @pd28cse's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pd28cse)](https://holopin.io/@pd28cse)
+
 </div>
 
 
