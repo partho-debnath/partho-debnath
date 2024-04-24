@@ -67,8 +67,6 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
   [![Check out partho-debnath's profile on stardev.io](https://stardev.io/developers/partho-debnath/badge/languages/global.svg)](https://stardev.io/developers/partho-debnath)
 
-  [![An image of @partho-debnath's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/partho-debnath)](https://holopin.io/@partho-debnath)
-
 </div>
 
 
