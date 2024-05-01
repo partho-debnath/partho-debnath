@@ -34,7 +34,7 @@ Studying Computer Science and Engineering At Bangladesh University of Business a
 
 <p float="left">
   <a href="https://dart.dev/"> <img height="45" src="img/dart.svg" alt="Dart"> </a>
-  <a href="https://flutter.dev/"> <img height="45" src="img/flutter.svg" alt="Flutter"> </a><img height="48" src="img/python-original.svg" alt="python"> <img height="50" src="img/django.svg" alt="Django"> <img height="45"  src="img/c.svg" alt="C"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48"  src="img/java.svg" alt="Java"><img height="48"  src="img/cSharp.svg" alt="C#"><img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/mysql.svg" alt="MySql"> <img height="48" src="img/postman.svg" alt="Postman">
+  <a href="https://flutter.dev/"> <img height="45" src="img/flutter.svg" alt="Flutter"> </a><img height="48" src="img/python.svg" alt="python"> <img height="50" src="img/django.svg" alt="Django"> <img height="50" src="img/docker.svg" alt="Docker"> <img height="45"  src="img/c.svg" alt="C"> <img height="48" src="img/c++.svg" alt="C++"> <img height="48"  src="img/java.svg" alt="Java"><img height="48"  src="img/cs.svg" alt="C#"><img height="48" src="img/linux.svg" alt="linux"> <img height="48" src="img/git.svg" alt="git"> <img height="48" src="img/github.svg" alt="Github"> <img height="48" src="img/mysql.svg" alt="MySql"> <img height="48" src="img/postgresql.svg" alt="MySql"> <img height="48" src="img/postman.svg" alt="Postman"> <img height="48" src="img/vs-code.svg" alt="VS Code"> <img height="48" src="img/android-studio.svg" alt="Android Studio">
 </p>
 
 
